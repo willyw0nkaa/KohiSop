@@ -1,4 +1,4 @@
-KohiSop Payment System
+KohiSop
 
 Sistem pembayaran sederhana berbasis Java untuk manajemen pemesanan makanan, minuman, dan pembayaran dengan berbagai metode seperti tunai, e-money, dan QRIS.
 
