@@ -19,3 +19,5 @@ Struktur Project:
 - Makanan.java, Minuman.java -> Representasi item menu.
 - EMoneyPayment.java, QRIS.java, Tunai.java -> Implementasi metode pembayaran.
 - TukarCurrency.java         -> Fungsi tukar mata uang.
+
+Disusun oleh: Naila Rania Shofa, Ahmad Rafi Fauzi, M. Nismanda Mahbubillah
